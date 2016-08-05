@@ -1,0 +1,8 @@
+{
+  "name": "ch_home",
+  "version": "1.0.0",
+  "description": "知识积累的过程",
+  "devDependencies": {
+    "grunt": "^1.0.1"
+  }
+}
